@@ -1,8 +1,8 @@
-﻿using MultiOperationCalculator.Library;
+﻿using NUnit.Framework;
+using MultiOperationCalculator.Library;
 
 namespace MultiOperationCalculator.Tests.ParsingTests
 {
-    [Parallelizable(ParallelScope.Self)]
     [TestFixture]
     public class ParsingTests
     {

@@ -1,7 +1,9 @@
-﻿using MultiOperationCalculator.Library;
+﻿using NUnit.Framework;
+using MultiOperationCalculator.Library;
 
 namespace MultiOperationCalculator.Tests.CalculatorTests
 {
+    [TestFixture]
     public class CalculatorTests
     {
 

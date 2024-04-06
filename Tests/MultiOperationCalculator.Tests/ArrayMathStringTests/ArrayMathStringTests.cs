@@ -1,12 +1,10 @@
-﻿using MultiOperationCalculator.Library;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using NUnit.Framework;
+using MultiOperationCalculator.Library;
+
 
 namespace MultiOperationCalculator.Tests.ArrayMathStringTests
 {
+    [TestFixture]
     public class ArrayMathStringTests
     {
         [Test]

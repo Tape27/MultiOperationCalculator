@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\profi\\Desktop\\Multi-Operation Calculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj": {}
+    "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\profi\\Desktop\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj": {
+    "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\profi\\Desktop\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj",
+        "projectUniqueName": "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj",
         "projectName": "MultiOperationCalculator.Library",
-        "projectPath": "C:\\Users\\profi\\Desktop\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj",
+        "projectPath": "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj",
         "packagesPath": "C:\\Users\\profi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\profi\\Desktop\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Library\\obj\\",
+        "outputPath": "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\profi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\profi\\Desktop\\Multi-Operation Calculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj": {
+    "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\profi\\Desktop\\Multi-Operation Calculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj",
         "projectName": "MultiOperationCalculator.Tests",
-        "projectPath": "C:\\Users\\profi\\Desktop\\Multi-Operation Calculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj",
+        "projectPath": "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj",
         "packagesPath": "C:\\Users\\profi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\profi\\Desktop\\Multi-Operation Calculator\\Tests\\MultiOperationCalculator.Tests\\obj\\",
+        "outputPath": "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Tests\\MultiOperationCalculator.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\profi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,8 +94,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\profi\\Desktop\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj": {
-                "projectPath": "C:\\Users\\profi\\Desktop\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj"
+              "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj": {
+                "projectPath": "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj"
               }
             }
           }
@@ -121,27 +121,15 @@
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.8.0, )"
-            },
-            "Microsoft.Playwright.NUnit": {
-              "target": "Package",
-              "version": "[1.27.1, )"
+              "version": "[17.9.0, )"
             },
             "NUnit": {
               "target": "Package",
               "version": "[3.14.0, )"
             },
-            "NUnit.Analyzers": {
-              "target": "Package",
-              "version": "[3.9.0, )"
-            },
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[4.5.0, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[6.0.0, )"
             }
           },
           "imports": [
