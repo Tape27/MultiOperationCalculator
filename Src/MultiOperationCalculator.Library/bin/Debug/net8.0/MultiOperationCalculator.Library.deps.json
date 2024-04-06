@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MultiOperationCalculator.Library/1.0.0": {
+        "dependencies": {
+          "ExtendedNumerics.BigDecimal": "2023.1000.4.35"
+        },
+        "runtime": {
+          "MultiOperationCalculator.Library.dll": {}
+        }
+      },
+      "ExtendedNumerics.BigDecimal/2023.1000.4.35": {
+        "runtime": {
+          "lib/net7.0/ExtendedNumerics.BigDecimal.dll": {
+            "assemblyVersion": "2023.1000.4.35",
+            "fileVersion": "2023.1000.4.35"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiOperationCalculator.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtendedNumerics.BigDecimal/2023.1000.4.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vX8Sr1zREZuVoeFjV0ohdk89nh2aL6Fa2t41WyumjpT8UFlEAZZ2+DqWCQLZZ+YnG06PogYrQBrsBX5LTH3WgA==",
+      "path": "extendednumerics.bigdecimal/2023.1000.4.35",
+      "hashPath": "extendednumerics.bigdecimal.2023.1000.4.35.nupkg.sha512"
+    }
+  }
+}

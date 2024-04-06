@@ -1,0 +1,37 @@
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\bin\Debug\net8.0\MultiOperationCalculator.Console.exe
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\bin\Debug\net8.0\MultiOperationCalculator.Console.deps.json
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\bin\Debug\net8.0\MultiOperationCalculator.Console.runtimeconfig.json
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\bin\Debug\net8.0\MultiOperationCalculator.Console.dll
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\bin\Debug\net8.0\MultiOperationCalculator.Console.pdb
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\bin\Debug\net8.0\MultiOperationCalculator.Library.dll
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\bin\Debug\net8.0\MultiOperationCalculator.Library.pdb
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\obj\Debug\net8.0\MultiOperationCalculator.Console.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\obj\Debug\net8.0\MultiOperationCalculator.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\obj\Debug\net8.0\MultiOperationCalculator.Console.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\obj\Debug\net8.0\MultiOperationCalculator.Console.AssemblyInfo.cs
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\obj\Debug\net8.0\MultiOperationCalculator.Console.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\obj\Debug\net8.0\MultiOpe.111701E8.Up2Date
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\obj\Debug\net8.0\MultiOperationCalculator.Console.dll
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\obj\Debug\net8.0\refint\MultiOperationCalculator.Console.dll
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\obj\Debug\net8.0\MultiOperationCalculator.Console.pdb
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\obj\Debug\net8.0\MultiOperationCalculator.Console.genruntimeconfig.cache
+C:\Users\profi\Desktop\Multi-Operation Calculator\Multi-Operation Calculator\obj\Debug\net8.0\ref\MultiOperationCalculator.Console.dll
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\bin\Debug\net8.0\MultiOperationCalculator.Console.exe
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\bin\Debug\net8.0\MultiOperationCalculator.Console.deps.json
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\bin\Debug\net8.0\MultiOperationCalculator.Console.runtimeconfig.json
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\bin\Debug\net8.0\MultiOperationCalculator.Console.dll
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\bin\Debug\net8.0\MultiOperationCalculator.Console.pdb
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\bin\Debug\net8.0\MultiOperationCalculator.Library.dll
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\bin\Debug\net8.0\MultiOperationCalculator.Library.pdb
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\obj\Debug\net8.0\MultiOperationCalculator.Console.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\obj\Debug\net8.0\MultiOperationCalculator.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\obj\Debug\net8.0\MultiOperationCalculator.Console.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\obj\Debug\net8.0\MultiOperationCalculator.Console.AssemblyInfo.cs
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\obj\Debug\net8.0\MultiOperationCalculator.Console.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\obj\Debug\net8.0\MultiOpe.111701E8.Up2Date
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\obj\Debug\net8.0\MultiOperationCalculator.Console.dll
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\obj\Debug\net8.0\refint\MultiOperationCalculator.Console.dll
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\obj\Debug\net8.0\MultiOperationCalculator.Console.pdb
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\obj\Debug\net8.0\MultiOperationCalculator.Console.genruntimeconfig.cache
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\obj\Debug\net8.0\ref\MultiOperationCalculator.Console.dll
+C:\Users\profi\Desktop\Multi-Operation Calculator\Src\MultiOperationCalculator.Console\bin\Debug\net8.0\ExtendedNumerics.BigDecimal.dll
