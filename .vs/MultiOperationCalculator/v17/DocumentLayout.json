@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\profi\\Documents\\GitHub\\MultiOperationCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{387C0293-67CF-4651-B487-646B6389C420}|Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj|c:\\users\\profi\\documents\\github\\multioperationcalculator\\tests\\multioperationcalculator.tests\\multioperationcalculator.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{387C0293-67CF-4651-B487-646B6389C420}|Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj|solutionrelative:tests\\multioperationcalculator.tests\\multioperationcalculator.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C0293-67CF-4651-B487-646B6389C420}|Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj|c:\\users\\profi\\documents\\github\\multioperationcalculator\\tests\\multioperationcalculator.tests\\parsingtests\\parsingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387C0293-67CF-4651-B487-646B6389C420}|Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj|solutionrelative:tests\\multioperationcalculator.tests\\parsingtests\\parsingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7469C7F-0CE2-4E4E-A3D3-3D8DD121BC04}|Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj|c:\\users\\profi\\documents\\github\\multioperationcalculator\\src\\multioperationcalculator.library\\arraymathstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7469C7F-0CE2-4E4E-A3D3-3D8DD121BC04}|Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj|solutionrelative:src\\multioperationcalculator.library\\arraymathstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultiOperationCalculator.Tests",
+              "DocumentMoniker": "C:\\Users\\profi\\Documents\\GitHub\\MultiOperationCalculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj",
+              "RelativeDocumentMoniker": "Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj",
+              "ToolTip": "C:\\Users\\profi\\Documents\\GitHub\\MultiOperationCalculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj",
+              "RelativeToolTip": "Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-06T22:38:40.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParsingTests.cs",
+              "DocumentMoniker": "C:\\Users\\profi\\Documents\\GitHub\\MultiOperationCalculator\\Tests\\MultiOperationCalculator.Tests\\ParsingTests\\ParsingTests.cs",
+              "RelativeDocumentMoniker": "Tests\\MultiOperationCalculator.Tests\\ParsingTests\\ParsingTests.cs",
+              "ToolTip": "C:\\Users\\profi\\Documents\\GitHub\\MultiOperationCalculator\\Tests\\MultiOperationCalculator.Tests\\ParsingTests\\ParsingTests.cs",
+              "RelativeToolTip": "Tests\\MultiOperationCalculator.Tests\\ParsingTests\\ParsingTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:38:42.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayMathString.cs",
+              "DocumentMoniker": "C:\\Users\\profi\\Documents\\GitHub\\MultiOperationCalculator\\Src\\MultiOperationCalculator.Library\\ArrayMathString.cs",
+              "RelativeDocumentMoniker": "Src\\MultiOperationCalculator.Library\\ArrayMathString.cs",
+              "ToolTip": "C:\\Users\\profi\\Documents\\GitHub\\MultiOperationCalculator\\Src\\MultiOperationCalculator.Library\\ArrayMathString.cs",
+              "RelativeToolTip": "Src\\MultiOperationCalculator.Library\\ArrayMathString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T22:33:22.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

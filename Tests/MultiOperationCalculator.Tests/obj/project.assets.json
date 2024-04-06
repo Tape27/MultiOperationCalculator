@@ -945,11 +945,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\profi\\Documents\\GitHub\\MultiOperationCalculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj",
       "projectName": "MultiOperationCalculator.Tests",
-      "projectPath": "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj",
+      "projectPath": "C:\\Users\\profi\\Documents\\GitHub\\MultiOperationCalculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj",
       "packagesPath": "C:\\Users\\profi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Tests\\MultiOperationCalculator.Tests\\obj\\",
+      "outputPath": "C:\\Users\\profi\\Documents\\GitHub\\MultiOperationCalculator\\Tests\\MultiOperationCalculator.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\profi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -966,8 +966,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj": {
-              "projectPath": "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj"
+            "C:\\Users\\profi\\Documents\\GitHub\\MultiOperationCalculator\\Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj": {
+              "projectPath": "C:\\Users\\profi\\Documents\\GitHub\\MultiOperationCalculator\\Src\\MultiOperationCalculator.Library\\MultiOperationCalculator.Library.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wJJUaymUqivjkNq+sa2icWjvAVYK9QFWO0VAA5RMPBfi+BugbHVFovLgUvyeql4b+l8B9VT1vgZ9gQ0HjmDzdA==",
+  "dgSpecHash": "MbBFuRqeFgarWB9dQdlsW0e1t2p6PlnnQ1twzG96RuGaFUuIHG8N96Scl0QFztFg2xa0ucfptAiiXllTuPpE8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj",
+  "projectFilePath": "C:\\Users\\profi\\Documents\\GitHub\\MultiOperationCalculator\\Tests\\MultiOperationCalculator.Tests\\MultiOperationCalculator.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\profi\\.nuget\\packages\\extendednumerics.bigdecimal\\2023.1000.4.35\\extendednumerics.bigdecimal.2023.1000.4.35.nupkg.sha512",
     "C:\\Users\\profi\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",

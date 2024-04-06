@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l/ZfzdCD3Ejstva5JKKM0KJXkmh/WX7XKdkGUgsVHd+BU8Bsiu8XBIYRWjJE/Uvf0A+14j9kpuvFnQWz+zCQLw==",
+  "dgSpecHash": "UH1p0frZEdJiSpHqz+KS024LaSI9sxnEFBJfOvJnwchKR0+Fhl01JczuyHhPGXlKNH2K32OrjwYy9f4jvRCwEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\profi\\Documents\\GitHub\\test\\Multi-Operation Calculator\\Src\\MultiOperationCalculator.Console\\MultiOperationCalculator.Console.csproj",
+  "projectFilePath": "C:\\Users\\profi\\Documents\\GitHub\\MultiOperationCalculator\\Src\\MultiOperationCalculator.Console\\MultiOperationCalculator.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\profi\\.nuget\\packages\\extendednumerics.bigdecimal\\2023.1000.4.35\\extendednumerics.bigdecimal.2023.1000.4.35.nupkg.sha512"
   ],
